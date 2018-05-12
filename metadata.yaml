@@ -1,0 +1,39 @@
+_repo: Folk-lore-and-Legends--German_27499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Germany'
+- !lcsh 'Folklore -- Germany'
+- !lcc 'GR'
+- !lcsh 'Tales -- Germany'
+tableOfContents: Gaffer Death -- The Legend of Paracelsus -- Hans in Luck -- The Grey
+  Mare in the Garret -- The Water Spirit -- Peter Klaus -- The Legend of Rheineck
+  -- The Cellar of the Old Knights in the Kyffhauser -- The Fisherman and his Wife
+  -- The Mouse Tower -- The Dancers -- The Little Shroud -- The Arch Rogue -- Brother
+  Merry -- Fastrada -- The Jew in the Bush -- The Elves -- The Conclave of Corpses
+  -- Legends of Rubezahl, or Number-Nip -- The Hunter Hackelnberg and the Tut-Osel
+  -- The Alraun -- The Goose-Girl -- Hans Jagenteufel -- The Waits of Bremen -- The
+  Flaming Castle -- The Monks at the Ferry -- Doctor All-Wise -- The White Maiden
+  -- The Sturgeon -- St. Andrew's Night.
+title: 'Folk-lore and Legends: German'
+url: http://www.gutenberg.org/ebooks/27499
